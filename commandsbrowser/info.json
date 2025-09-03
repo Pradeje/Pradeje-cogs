@@ -1,0 +1,8 @@
+{
+  "name": "CommandsBrowser",
+  "display_name": "Commands Browser",
+  "author": "Pradeje",
+  "version": "1.0.0",
+  "short": "An interactive command browser with dropdowns",
+  "description": "View and browse commands by category via a neat interactive menu"
+}
