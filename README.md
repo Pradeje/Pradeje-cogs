@@ -1,6 +1,6 @@
-# Pradeje Cogs
+## Pradeje Cogs
 
-Various useful and fun plugins (cogs) for **[Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)**, a Discord bot you can run on your own computer!
+A collection of custom cogs for **[Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)**, adding useful features and fun extras you can run on your own server.
 
 
 
@@ -9,7 +9,7 @@ Various useful and fun plugins (cogs) for **[Red-DiscordBot](https://github.com/
 
 | Cog                                    | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [CommandsBrowser]       | <details><summary>Interactive dropdown menu.</summary> Browse bot commands by category.</details> |
+| [CommandsBrowser](./commandsbrowser)      | <details><summary>Interactive dropdown menu.</summary> Browse bot commands by category.</details> |
 
 
 ## 📦 Installation
